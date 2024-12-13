@@ -27,6 +27,10 @@ The dataset was compiled using valuable information from [WhoSampled](http://www
 
 ## Changes since 2011
 
+### Add noise files
+
+- Add the 320 noise tracks used to challenge the system in [1] and [2]
+
 ### Removed entries
 
 - S102 (T177 sampled by T178)
