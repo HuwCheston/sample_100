@@ -30,6 +30,7 @@ The dataset was compiled using valuable information from [WhoSampled](http://www
 ### Add noise files
 
 - Add the 320 noise tracks used to challenge the system in [1] and [2]
+- One noise file (N043) is removed as it duplicates another (N042), so the total number of noise files is 319.
 
 ### Removed entries
 
